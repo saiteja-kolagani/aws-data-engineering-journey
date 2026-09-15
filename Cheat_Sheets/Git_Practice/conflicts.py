@@ -1,3 +1,3 @@
-message = 'Hello! Testing Conflicts from practice conflict'
+message = 'Hello! Testing Conflicts'
 
 print(message)
